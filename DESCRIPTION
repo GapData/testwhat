@@ -28,3 +28,4 @@ Authors@R: c(person("Andreas", "Alfons", role = "aut"),
 Author: Filip Schouwenaars <filip@datacamp.com>
 Maintainer: Filip Schouwenaars <filip@datacamp.com>
 RoxygenNote: 5.0.1
+VignetteBuilder: knitr
