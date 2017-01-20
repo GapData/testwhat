@@ -10,15 +10,17 @@ URL: www.DataCamp.com
 Depends:
     R (>= 3.0.0)
 Imports:
+    magrittr
     markdown,
     R6,
     stringdist,
-    magrittr
 Suggests:
-    knitr,
-    rmarkdown,
+    data.table,
     ggvis,
+    knitr,
     lazyeval,
+    rmarkdown,
+    sets,
     testthat
 License: MIT + file LICENSE
 LazyData: true
