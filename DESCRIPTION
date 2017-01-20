@@ -10,10 +10,10 @@ URL: www.DataCamp.com
 Depends:
     R (>= 3.0.0)
 Imports:
-    magrittr
+    magrittr,
     markdown,
     R6,
-    stringdist,
+    stringdist
 Suggests:
     data.table,
     ggvis,
